@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## Eu sou Junior Silva!
--:Eu moro no 🇧🇷, São Paulo :sunglasses::sunrise: <br>
+- Eu moro no 🇧🇷, São Paulo :sunglasses::sunrise: <br>
 -:rocket: Buscando novos desafios. <br>
 -:computer: Minha stack: HTML, CSS e JavaScript. <br>
--:🌱: Estudando: Jquery, Booststrap, angular 7+, React, MySQL <br>
+-🌱 Estudando: Jquery, Booststrap, angular 7+, React, MySQL <br>
 -📓 Estudando muito para me tornar um Dev FullStak. <br>
 -:mailbox: cicerojunior.silva@hotmail.com <br>
 
