@@ -9,9 +9,22 @@
 -:mailbox: cicerojunior.silva@hotmail.com <br>
 
 ## Conecte-se comigo:
-<a href="https://www.linkedin.com/in/cicero-antonio-4231a3b1/" target="_blank">
-<img align="center" alt="cicero-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
-</a>
+<a href="https://www.linkedin.com/in/cicero-antonio-4231a3b1/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://www.instagram.com/jrsil_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
+
+## Minhas Habilidades:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img> <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior10-hub)](https://github.com/Junior10-hub/github-readme-stats)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junior10-hub&show_icons=true&theme=radical)
+
 
 
 
