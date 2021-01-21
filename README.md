@@ -5,7 +5,7 @@
 -:rocket: Buscando novos desafios. <br>
 -:computer: Minha stack: HTML, CSS e JavaScript. <br>
 -:🌱: Estudando: Jquery, Booststrap, angular 7+, React, MySQL <br>
--:rocket: Estudando muito para me tornar um Dev FullStak. <br>
+-📓 Estudando muito para me tornar um Dev FullStak. <br>
 -:mailbox: cicerojunior.silva@hotmail.com <br>
 
 ## Conecte-se comigo:
