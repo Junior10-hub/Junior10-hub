@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Eu sou Junior Silva!
--:Eu moro no 🇧🇷, São Paulo :sunglasses::sunrise:
+-:Eu moro no 🇧🇷, São Paulo :sunglasses::sunrise: <br>
 -:rocket: Buscando novos desafios. <br>
 -:computer: Minha stack: HTML, CSS e JavaScript. <br>
 -:🌱: Estudando: Jquery, Booststrap, angular 7+, React, MySQL <br>
