@@ -10,7 +10,7 @@
 
 ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/cicero-antonio-4231a3b1/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="http://www.instagram.com/jrsil_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
+<a href="http://www.instagram.com/jrsil_/" target = "_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
 
 ## Minhas Habilidades:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
